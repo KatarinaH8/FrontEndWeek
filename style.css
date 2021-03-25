@@ -1,0 +1,62 @@
+body 
+{
+    background-color: #FFEECC;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size: 16px;
+}
+
+#naslov 
+{
+    color: black;
+    font-family: sans-serif;
+    
+    border: 5px;
+}
+
+.ponuda 
+{
+    color: darksalmon;
+    text-overflow: ellipsis;
+}
+
+h3 
+{
+    color:rgb(228, 150, 121);
+    text-align: center;
+}
+
+h6
+{
+    text-align: right;
+}
+a:hover 
+{
+    color:darkturquoise
+}
+
+img:hover 
+{ 
+    width: 600px;
+}
+
+#tražilica 
+{
+      background-color: lightsalmon;
+      font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+      font-size: 15px;
+      text-align: center;
+}
+  
+::placeholder 
+{ 
+    color: white;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+button:hover
+{
+    width: 100px;
+    height: 30px;
+    color:rgb(134, 92, 77);
+    background-color:  rgb(236, 145, 65);
+}
